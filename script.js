@@ -1,8 +1,8 @@
-const NAME  = 'Nano'
+const NAME  = 'JazzMix'
 
 const calcTime = () => {
 	let	ampm  = "AM",
-			sal   = "morning",
+			sal   = "Welcom to",
 			date  = new Date(),
 			hours = date.getHours(),
 			mins  = date.getMinutes()
